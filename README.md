@@ -27,7 +27,7 @@ traffic-flow-prediction/
 The included dataset is a **synthetic sample dataset** created for this portfolio
 project so that the repository runs immediately. It is not the official UCI
 Metro Interstate Traffic Volume dataset and should not be described as real UCI
-data on a resume.
+data.
 
 For a real-data version, replace `data/metro_traffic.csv` with the UCI Metro
 Interstate Traffic Volume dataset and map its columns to the features used here.
